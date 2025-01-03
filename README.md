@@ -1,14 +1,15 @@
 # Top-Down Dungeon Crawler Game
 
-A dynamic top-down dungeon crawler game built in Unity, showcasing advanced pathfinding and immersive gameplay mechanics. 
-This project demonstrates skills in game development, algorithm optimization, and C# programming.
+A dynamic top-down dungeon crawler game developed in Unity, highlighting foundational game development concepts, algorithmic problem-solving, and advanced gameplay mechanics.
+This project was created as an introductory exercise to refine and showcase skills in Unity and C# while exploring professional workflows and techniques.
 
 ## Features
 
-- **Dynamic Pathfinding**: Utilizes an A* Algorithm with a binary heap sort for real-time and efficient enemy navigation.
-- **Custom Prefabs**: Includes player characters, enemies, weapons, and environmental assets, all designed for seamless interaction.
-- **Engaging Gameplay**: Implements responsive controls, enemy AI, and level progression for an immersive user experience.
-- **Game Mechanics**: Features player health, enemy spawning, and item interactions in a procedurally designed dungeon environment.
+- **Optimized Pathfinding**: Implemented an efficient A* algorithm enhanced with a binary heap to streamline enemy pathfinding and decision-making, demonstrating a focus on performance optimization.
+- **Custom Prefab Design**: Designed and incorporated player characters, enemies, weapons, and environmental elements to build an engaging and cohesive game environment.
+- **Gameplay Mechanics and AI**: Built responsive player controls, adaptive enemy AI behaviors, and modular dungeon layouts to create a dynamic and replayable game experience.
+- **Health and Combat Systems**: Developed comprehensive systems for player health management, enemy spawning, and interactive elements like pickups and destructibles within a procedurally designed dungeon.
+- **Version Control and Collaboration**: Utilized Git for version control, maintaining a structured and collaborative workflow throughout the development process.
 
 ## Technologies Used
 
