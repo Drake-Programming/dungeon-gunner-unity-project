@@ -5,7 +5,7 @@ This project demonstrates skills in game development, algorithm optimization, an
 
 ## Features
 
-- **Dynamic Pathfinding**: Utilizes an A* Algorithm with a binary heap for real-time and efficient enemy navigation.
+- **Dynamic Pathfinding**: Utilizes an A* Algorithm with a binary heap sort for real-time and efficient enemy navigation.
 - **Custom Prefabs**: Includes player characters, enemies, weapons, and environmental assets, all designed for seamless interaction.
 - **Engaging Gameplay**: Implements responsive controls, enemy AI, and level progression for an immersive user experience.
 - **Game Mechanics**: Features player health, enemy spawning, and item interactions in a procedurally designed dungeon environment.
