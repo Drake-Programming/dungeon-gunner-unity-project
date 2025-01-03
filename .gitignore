@@ -1,0 +1,128 @@
+# This .gitignore file should be placed at the root of your Unity project directory
+#
+# Get the latest version from https://github.com/github/gitignore/blob/main/Unity.gitignore
+#
+
+# Unity auto-generated folders
+[Ll]ibrary/
+[Tt]emp/
+[Oo]bj/
+[Bb]uild/
+[Bb]uilds/
+[Ll]ogs/
+[Uu]ser[Ss]ettings/
+
+# Ignore CourseAssets folder for training-related assets
+Assets/CourseAssets/
+
+# Crash reports and temporary Unity files
+/[Mm]emoryCaptures/
+sysinfo.txt
+*.tmp
+*.bak
+
+# Recordings and large files
+/[Rr]ecordings/
+*.mp4
+*.mov
+*.avi
+*.wav
+*.ogg
+
+# Visual Studio and JetBrains Rider cache and settings
+.vs/
+*.csproj
+*.sln
+*.user
+*.userprefs
+ExportedObj/
+.consulo/
+/[Aa]ssets/Plugins/Editor/JetBrains*
+
+# Gradle cache
+.gradle/
+
+# Ignore Unity meta files unless necessary
+*.meta
+
+# Ignore Packed Addressables
+/[Aa]ssets/[Aa]ddressable[Aa]ssets[Dd]ata/*/*.bin*
+
+# Temporary Android assets
+/[Aa]ssets/[Ss]treamingAssets/aa.meta
+/[Aa]ssets/[Ss]treamingAssets/aa/*
+
+# Builds and distribution files
+*.apk
+*.aab
+*.unitypackage
+*.app
+
+# Ignore Crashlytics generated files
+crashlytics-build.properties
+
+# Ignore ShaderCache files
+*.shadercache
+
+# Ignore Unity's auto-generated files
+*.pidb
+*.pidb.meta
+*.pdb
+*.pdb.meta
+*.mdb
+*.mdb.meta
+*.opendb
+*.VC.db
+
+# Ignore materials and texture caches
+*.mat
+*.renderTexture
+
+# Ignore specific user-specific settings
+*.suo
+*.tps
+*.tga
+
+# Ignore Unity-generated .asset files unless necessary
+*.asset
+
+# Ignore 3D model files unless required
+*.fbx
+*.obj
+
+# Ignore large texture and sprite files unless optimized
+*.png
+*.jpg
+*.jpeg
+*.tiff
+*.tif
+
+# Ignore training-related files
+Assets/CourseAssets/
+Assets/CourseAssets/**
+
+# Ignore system files
+.DS_Store
+Thumbs.db
+ehthumbs.db
+desktop.ini
+
+# Uncomment this line if you wish to ignore the asset store tools plugin
+# /[Aa]ssets/AssetStoreTools*
+
+# Ignore TextMesh Pro files
+Assets/TextMesh Pro/
+
+# Ignore Packages and ProjectSettings (if recreatable)
+Packages/
+ProjectSettings/
+
+# Ignore PDFs and documentation files
+*.pdf
+*.docx
+*.txt (optional, unless required)
+
+# Ignore Cache Files
+*.meta
+
+
